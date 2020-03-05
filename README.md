@@ -1,2 +1,2 @@
 # MyBank
-Learning flutter dev.
+Learning basic flutter dev.
